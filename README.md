@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on small project and expand my knowledge, experience and skills...
 - 📫 How to reach me ...
 
-- I am a driven and committed technology enthusiast currently looking for a full-time internship Software/ Web Developer. Eager to learn and naturally curious, I enjoy solving problems, organising projects and working as a team. I have a can-do attitude and am impeccable in attention to detail.
-
 <!---
 Sktt110/Sktt110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
