@@ -23,9 +23,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=Sktt110&icon=0&color=10)](https://visitcount.itsvg.in)
 
 
-# 💻 Data Stack:
- ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
-
 
 
 # 📊 GitHub Stats:
