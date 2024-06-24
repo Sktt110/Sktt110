@@ -4,12 +4,12 @@ During my journey, and I have honed my skills in various analytical tools and te
 
 Key highlights of my experience and skills include:
 
-👩🏼‍💻 Data Analysis: Proficient in analyzing large datasets to identify trends, patterns, and insights.
-📉 Statistical Modeling: Strong foundation in statistical methods and their applications in business contexts.
-📊Data Visualization: Experienced in creating clear and compelling visualizations to communicate findings.
-🖥️ Tools and Technologies: Skilled in using Excel, SQL, Python, and Tableau for data manipulation and analysis.
-🔗 Problem-Solving: Adept at applying analytical thinking to solve complex problems and improve processes.
-👥 Team Collaboration: Proven ability to work collaboratively in team settings and contribute effectively to project goals.
+👩🏼‍💻 Data Analysis: Proficient in analyzing large datasets to identify trends, patterns, and insights. <br>
+📉 Statistical Modeling: Strong foundation in statistical methods and their applications in business contexts. <br>
+📊Data Visualization: Experienced in creating clear and compelling visualizations to communicate findings. <br>
+🖥️ Tools and Technologies: Skilled in using Excel, SQL, Python, and Tableau for data manipulation and analysis. <br>
+🔗 Problem-Solving: Adept at applying analytical thinking to solve complex problems and improve processes. <br>
+👥 Team Collaboration: Proven ability to work collaboratively in team settings and contribute effectively to project goals. <br>
 
 I am eager to bring my analytical skills and enthusiasm for data to a dynamic and growth-oriented organization. I am particularly interested in roles that offer opportunities for continuous learning and professional development in the field of data analytics.
 
